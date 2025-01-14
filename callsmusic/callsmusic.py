@@ -1,4 +1,4 @@
-from pyrogram import Client
+ from pyrogram import Client
 from pytgcalls import PyTgCalls
 
 from config import SESSION_NAME, API_ID, API_HASH
